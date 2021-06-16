@@ -1,0 +1,8 @@
+.vs/
+Logs/
+obj/
+UserSettings/
+ProjectSettings/
+.vsconfig
+*.sln
+.DS_Store
